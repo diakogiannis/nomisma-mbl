@@ -1,0 +1,7 @@
+{
+  "name": "nomisma-mbl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
